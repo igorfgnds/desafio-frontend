@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/silveira-barreiros/static/css/main.e1b27846.chunk.css",
+    "main.js": "/silveira-barreiros/static/js/main.a2965c68.chunk.js",
+    "main.js.map": "/silveira-barreiros/static/js/main.a2965c68.chunk.js.map",
+    "runtime~main.js": "/silveira-barreiros/static/js/runtime~main.2b1be150.js",
+    "runtime~main.js.map": "/silveira-barreiros/static/js/runtime~main.2b1be150.js.map",
+    "static/js/2.2edad468.chunk.js": "/silveira-barreiros/static/js/2.2edad468.chunk.js",
+    "static/js/2.2edad468.chunk.js.map": "/silveira-barreiros/static/js/2.2edad468.chunk.js.map",
+    "index.html": "/silveira-barreiros/index.html",
+    "precache-manifest.ee49fa2f190fe828eebf1435f2698850.js": "/silveira-barreiros/precache-manifest.ee49fa2f190fe828eebf1435f2698850.js",
+    "service-worker.js": "/silveira-barreiros/service-worker.js",
+    "static/css/main.e1b27846.chunk.css.map": "/silveira-barreiros/static/css/main.e1b27846.chunk.css.map"
+  }
+}
