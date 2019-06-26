@@ -1,0 +1,14 @@
+// Dropdown
+
+.dropdown-menu {
+  border: 0;
+  min-width: 300px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+
+  @include media-breakpoint-down(xs) {
+    right: 0 !important;
+    top: 100% !important;
+    margin-right: 0 !important;
+    margin-top: .125rem !important;
+  }
+}

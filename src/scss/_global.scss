@@ -1,0 +1,40 @@
+// Global
+
+.container-fluid {
+  padding-top: 80px;
+}
+
+.like-icon {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  position: relative;
+  top: 1px;
+  transform: rotate(-45deg);
+  background-color: $gray-400;
+  cursor: pointer;
+  
+  &:before,
+  &:after {
+    content: '';
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: $gray-400;
+  }
+  
+  &:before {
+    top: -5px;
+    left: 0;
+  }
+  
+  &:after {
+    left: 5px;
+    top: 0;
+  }
+
+  &:hover, &:hover:before, &:hover:after, &.liked, &.liked:before, &.liked:after {
+    background-color: #f01414;
+  }
+}
